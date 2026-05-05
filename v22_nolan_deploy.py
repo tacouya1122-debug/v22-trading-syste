@@ -37,8 +37,8 @@ except Exception:
 # FINMIND_TOKEN
 # SAVE_DIR
 
-EMAIL_FROM = "tacouya1122@gmail.com")
-EMAIL_TO = "tacouya1122@gmail.com")
+EMAIL_FROM = "tacouya1122@gmail.com"
+EMAIL_TO = "tacouya1122@gmail.com"
 EMAIL_APP_PASSWORD = "niiuoflwpzqcbwok"
 
 FINMIND_TOKEN = "yk5ONCi2zr_iL3pWpAqj8KNR7IkOwfSuyI")
