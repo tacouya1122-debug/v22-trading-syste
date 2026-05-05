@@ -559,3 +559,7 @@ if __name__ == "__main__":
     import sys
     run_type = sys.argv[1] if len(sys.argv) > 1 else "manual"
     run_v22(run_type)
+# 🔥 防止 Railway 判定為 crash
+import time
+while True:
+    time.sleep(60)
